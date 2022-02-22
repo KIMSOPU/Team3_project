@@ -7,6 +7,7 @@
 <title>크림 따라잡기</title>
 </head>
 <body>
+ <input type="button" value="관리자페이지 버턴임" onclick="">
  
  <div id="container">
  	<jsp:include page="WEB-INF/views/top.jsp"></jsp:include>
